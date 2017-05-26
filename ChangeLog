@@ -1,2 +1,5 @@
 2017-05-25 Fred Gleason <fredg@paravelsystems.com>
 	* Initial package created.
+2017-05-26 Fred Gleason <fredg@paravelsystems.com>
+	* Added code to write sample rate changes to the database in
+	'rd_resample.py'.
